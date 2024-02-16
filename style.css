@@ -1,0 +1,7 @@
+.container p {
+    font-size: 20px;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightcoral;
+    letter-spacing: 2px;
+}

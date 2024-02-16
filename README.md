@@ -1,2 +1,2 @@
-# first-website-practice
-# first-website-practice
+# Learn Git and Practices this in the project
+
